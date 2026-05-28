@@ -27,3 +27,4 @@ Work In Progress.
 - typo-stack
 - typo-regs
 - exit
+- and others
